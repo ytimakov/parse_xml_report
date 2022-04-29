@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<xml>
+<data>
+    <country name="Liechtenstein">
+        <rank>1</rank>
+        <year>2008</year>
+        <gdppc>141100</gdppc>
+        <coord x="2" y="2424"/>
+        <n>
+        <neighbor>Austria</neighbor>
+        <neighbor>Switzerland</neighbor>
+        </n>
+    </country>
+    <country name="Singapore">
+        <rank>4</rank>
+        <year>2011</year>
+        <gdppc>59900</gdppc>
+        <n>
+        <neighbor>Malaysia</neighbor>
+        </n>
+    </country>
+    <country name="Panama">
+        <rank>68</rank>
+        <year>2011</year>
+        <gdppc>13600</gdppc>
+        <n>
+        <neighbor>Costa Rica</neighbor>
+        <neighbor>Colombia</neighbor>
+        </n>
+    </country>
+</data>
+<total>100000</total>
+</xml>
